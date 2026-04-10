@@ -19,6 +19,7 @@ A base da engenharia precisa estar instalada no seu terminal (Linux, Mac ou WSL)
 2. [Instalando o Compilador Rust](docs/1-instalacao/02-rust.md)
 3. [Instalando a Solana CLI (Chaves e Rede)](docs/1-instalacao/03-solana-cli.md)
 4. [Instalando o Anchor Framework (via AVM)](docs/1-instalacao/04-anchor-cli.md)
+5. [Pegando Faucet na Devnet p/ Deploy e Taxas](docs/1-instalacao/05-faucet-solana.md)
 
 ### 🧠 Fase 2: Fundamentos e Arquitetura 
 Abra a caixa preta. Entenda *por que* seu app roda na velocidade da luz.

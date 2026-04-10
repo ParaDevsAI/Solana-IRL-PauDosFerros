@@ -74,9 +74,10 @@ Tudo testado localmente? É hora de ir para o mundo real (versão de testes). Va
 # Aponta a CLI para a Devnet
 solana config set --url devnet
 
-# Pede dinheiro de mentira (2 SOL) para pagar a taxa de deploy de aprox 2.5 SOL
+# Pede dinheiro de mentira (2 SOL) para pagar a taxa de deploy.
 solana airdrop 2
-solana airdrop 2 # (pode precisar de duas vezes dependendo do tamanho do programa)
+# Nota: Se o comando de airdrop acima falhar por rate-limit do IP, faça o processo pelo Faucet Web oficial:
+# Acesse https://faucet.solana.com/ logando com seu GitHub. Preencha com o endereço gerado pelo `solana address`.
 
 # Faz o deploy utilizando as chaves configuradas
 anchor deploy --provider.cluster devnet
