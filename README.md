@@ -55,4 +55,8 @@ Se quer atingir o estado de arte no Hackathon e focar 100% no produto, use o nos
 * **Solana Claude Config:** Todos os agentes especializados que utilizamos em exemplos (`.claude`, `CLAUDE.md`, etc) vêm do repositório mantido pela fundação [github.com/solanabr/solana-claude](https://github.com/solanabr/solana-claude).
 * **SolanaBR Wiki:** Todas as dúvidas técnicas massivas respondidas em um só lugar de comunidade aberta [github.com/solanabr/wiki](https://github.com/solanabr/wiki).
 
+* **Colosseum Hackathon Version PT (ParaDevs) - March 2026.pdf**: [Link para o PDF](Colosseum%20Hackthon%20Version%20PT%20%28ParaDevs%29%20-%20March%202026.pdf)
+
+* **Do Zero a devnet**: [Link para o material](https://gamma.app/docs/Do-Zero-a-Devnet-3zxlunx67x88k7a?mode=doc)
+
 Bora "buidar"! 🚀
